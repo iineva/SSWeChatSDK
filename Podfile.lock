@@ -1,0 +1,14 @@
+PODS:
+  - SSWeChatSDK (1.6.0)
+
+DEPENDENCIES:
+  - SSWeChatSDK (from `SSWeChatSDK.podspec`)
+
+EXTERNAL SOURCES:
+  SSWeChatSDK:
+    :podspec: SSWeChatSDK.podspec
+
+SPEC CHECKSUMS:
+  SSWeChatSDK: 98fab61e3060fb42cdddb011cc00bb1a585e4452
+
+COCOAPODS: 0.38.2
