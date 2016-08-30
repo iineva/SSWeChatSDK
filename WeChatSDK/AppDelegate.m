@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import <SSWeChatSDK/WXApi.h>
 
 @interface AppDelegate ()
 
