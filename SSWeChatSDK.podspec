@@ -5,9 +5,9 @@ Pod::Spec.new do |s|
   s.license  = { :type => 'Copyright', :text => 'Copyright (c) 2012 Tencent. All rights reserved.' }
   s.summary  = 'The Official iOS SDK of WeChat from Tencent.'
   s.description = <<-DESC
-    The Official iOS SDK of WeChat from Tencent.
+    The Official iOS SDK of WeChat from Tencent. <https://open.weixin.qq.com>
   DESC
-  s.homepage = 'https://open.weixin.qq.com'
+  s.homepage = 'https://github.com/iineva/SSWeChatSDK'
   s.authors  = { 'Tencent' => 'developer@wechatapp.com' }
   s.source   = { :http => 'https://res.wx.qq.com/open/zh_CN/htmledition/res/dev/download/sdk/WeChatSDK1.7.3_Sample.zip' }
   s.ios.deployment_target = '6.0'
