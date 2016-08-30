@@ -1,3 +1,5 @@
 platform :ios, "6.0"
 
-pod "SSWeChatSDK", :podspec => 'SSWeChatSDK.podspec'
+target 'WeChatSDK' do
+  pod "SSWeChatSDK", :podspec => 'SSWeChatSDK.podspec'
+end
